@@ -24,3 +24,8 @@ venv/
 
 # 涓存椂 / 瑙勫垝鏂囨。锛堟湰鍦颁繚鐣欙紝涓嶆彁浜わ級
 /tmp/
+
+# AI 工具日志
+.deep-copilot/logs/
+.deep-copilot/cache/
+*.log
